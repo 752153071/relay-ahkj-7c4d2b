@@ -1,52 +1,52 @@
 {
-  "version": "2026.10.16.0",
-  "sha256": "25fd0bd10106bf615d7355a94f6e8f205cf8f45ceecc102e72fe28dff96c2152",
-  "notes": "自动更新版 2026.10.16.0",
+  "version": "2026.10.16.1",
+  "sha256": "856d3d2fb60a404b48b718c11c740927793a9dac6a1b46cb306fc85d34b0b3d2",
+  "notes": "自动更新版 2026.10.16.1",
   "parts": [
     {
-      "sha256": "1156773d7673d78283241c30fabe3c92725d48167526ddbaf9ac3154bb975c92",
+      "sha256": "e3db98ed63119f2f172d27d085ae7e7dc65b7ffdded3fdbaf170477a1ade097e",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_1156773d.part1.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_1156773d.part1.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_e3db98ed.part1.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_e3db98ed.part1.bin"
       ]
     },
     {
-      "sha256": "5d8512a641cfcf53a761fb2ea3177d4aec0b212b16e164ab27c521de9028a005",
+      "sha256": "f42b3820ec25b53f6d37bb8605bda758ed36fc507f78d3a1d7d4d5a4116654b5",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_5d8512a6.part2.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_5d8512a6.part2.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_f42b3820.part2.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_f42b3820.part2.bin"
       ]
     },
     {
-      "sha256": "e1972c522fdb53e325feac057f344727bbe575f632ad5fe38301fa3d6913ccb3",
+      "sha256": "11607d268c426ba0eb1f531067b1543e49e94f84bebeb98ac15613d11183f9e4",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_e1972c52.part3.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_e1972c52.part3.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_11607d26.part3.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_11607d26.part3.bin"
       ]
     },
     {
-      "sha256": "cd6940e954f9f4b6ba79cb7a4c35a09853f1a7cd51c9024f43a3a5e460ecd5c8",
+      "sha256": "1de39b025a208f8db3baa8f86939dc310be1dc0451de71764be78851e1a58031",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_cd6940e9.part4.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_cd6940e9.part4.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_1de39b02.part4.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_1de39b02.part4.bin"
       ]
     },
     {
-      "sha256": "9ae9cc45cf5ccddbb5f645eb09a11a8f2e6464e807da3d9a5b5470a4859286b4",
+      "sha256": "a7b3bcd7a7b34fbb37f9dfdd397830275b4a125d2b9b24d43ff45259a01e47da",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_9ae9cc45.part5.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_9ae9cc45.part5.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_a7b3bcd7.part5.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_a7b3bcd7.part5.bin"
       ]
     },
     {
-      "sha256": "866fe0094f16ceaac89d5955434b6269e5ff286d121fbd3bec6a0b0d394a124c",
+      "sha256": "16281a23ee25a27ceb3804964a970e9ffc1caee60ad3ddc9a3bee226c5e6a780",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.0_866fe009.part6.bin",
-        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.0_866fe009.part6.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-ahkj-7c4d2b/main/update_2026.10.16.1_16281a23.part6.bin",
+        "https://github.com/752153071/relay-ahkj-7c4d2b/raw/main/update_2026.10.16.1_16281a23.part6.bin"
       ]
     }
   ],
   "urls": [
-    "https://github.com/752153071/relay-ahkj-7c4d2b/releases/download/v2026.10.16.0/update.zip"
+    "https://github.com/752153071/relay-ahkj-7c4d2b/releases/download/v2026.10.16.1/update.zip"
   ]
 }
